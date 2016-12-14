@@ -23,7 +23,7 @@ Swiping from right to left:
 
 ![Alt SUNMI](https://github.com/sunmideveloper/The-Demo-of-read-card/blob/master/img/3.jpeg) 
 
-<font color=#0099ff size=7 face="黑体">The TextView on the Demo will show the Bank Card number if the card is recognized by the device.</font>
+<font color=#0099ff size=15 face="黑体">The TextView on the Demo will show the Bank Card number if the card is recognized by the device.</font>
 
 Now , I will explain  the code of the way to identify the card number base on the TestPay Demo:
 
