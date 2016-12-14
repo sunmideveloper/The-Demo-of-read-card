@@ -5,7 +5,7 @@ Please refer to the following steps:
 
 1. Installing the SunmiPayHardwareService.apk into your P1 device, click the icon on the Launcher to start it. You can find the apk in the resources file.
 
-2. Downloading the TestPay_AndroidStudio.zip and improting the TestPay_AndroidStudio project into your AndroidStuio ,of course you can download the TesetPay_eclipse if you are an eclipse advocate.
+2. Downloading the TestPay_AndroidStudio.zip and improting the TestPay_AndroidStudio project into your AndroidStudio ,of course you can download the TesetPay_eclipse if you are an eclipse advocate.
 
 3. Deploying the TestPay in your deivce(You an downloading those two apk files and install on your devices directly), click the TestPay icon in the Launcher, take out your BankCard(Maybe a   MasterCard ), clicking the ‘Click me and swiping card...’ button in the Demo. You know the next step is swiping card.
 
