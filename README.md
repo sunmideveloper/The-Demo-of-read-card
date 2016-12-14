@@ -17,7 +17,7 @@ IC:
 
 Swiping from right to left:
 
-### The TextView on the Demo will show the Bank Card number if the card is recognized by the device.
+<font color=#0099ff size=7 face="黑体">The TextView on the Demo will show the Bank Card number if the card is recognized by the device.</font>
 
 Now , I will explain  the code of the way to identify the card number base on the TestPay Demo:
 
