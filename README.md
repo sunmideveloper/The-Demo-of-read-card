@@ -3,7 +3,7 @@ Sunmi P1 (some times we call it V2) can do lots of financial payment work, here 
 
 Please refer to the following steps:
 
-1. Installing the SunmiPayHardwareService.apk into your P1 device, click the icon on the Launcher to start it. You can find the apk in the sources file.
+1. Installing the SunmiPayHardwareService.apk into your P1 device, click the icon on the Launcher to start it. You can find the apk in the resources file.
 
 2. Downloading the TestPay_AndroidStudio.zip and improting the TestPay_AndroidStudio project into your AndroidStuio ,of course you can download the TesetPay_eclipse if you are an eclipse advocate.
 
