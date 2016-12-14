@@ -87,6 +87,14 @@ ISMCheckCardCallback callback = new ISMCheckCardCallback.Stub() {
                     if (arg != null) {
                         
 Log.i("sunmi",(String) arg.get("PAN"));//Getting the card number.
+Log.i("sunmi",(String) arg.get("CARDTYPE"));//Getting the card type
+Log.i("sunmi",(String) arg.get("TRACK1"));
+Log.i("sunmi",(String) arg.get("TRACK3"));
+Log.i("sunmi",(String) arg.get("COUNTRYCODE"));
+Log.i("sunmi",(String) arg.get("CARDHOLDER"));
+Log.i("sunmi",(String) arg.get("EXPIRE"));
+Log.i("sunmi",(String) arg.get("ATR"));
+Log.i("sunmi",(String) arg.get("UUID"));
                     }
                 }
 
