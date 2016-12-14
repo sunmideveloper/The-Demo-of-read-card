@@ -3,11 +3,11 @@ Sunmi P1 (some times we call it V2) can do lots of financial payment work, here 
 
 Please refer to the following steps:
 
-1.Installing the SunmiPayHardwareService.apk into your P1 device, click the icon on the Launcher to start it. You can find the apk in the sources file.
+1. Installing the SunmiPayHardwareService.apk into your P1 device, click the icon on the Launcher to start it. You can find the apk in the sources file.
 
-2.Downloading the TestPay_AndroidStudio.zip and improting the TestPay_AndroidStudio project into your AndroidStuio ,of course you can download the TesetPay_eclipse if you are an eclipse advocate.
+2. Downloading the TestPay_AndroidStudio.zip and improting the TestPay_AndroidStudio project into your AndroidStuio ,of course you can download the TesetPay_eclipse if you are an eclipse advocate.
 
-3.Deploying the TestPay in your deivce(You an downloading those two apk files and install on your devices directly), click the TestPay icon in the Launcher, take out your BankCard(Maybe a   MasterCard ), clicking the ‘Click me and swiping card...’ button in the Demo. You know the next step is swiping card.
+3. Deploying the TestPay in your deivce(You an downloading those two apk files and install on your devices directly), click the TestPay icon in the Launcher, take out your BankCard(Maybe a   MasterCard ), clicking the ‘Click me and swiping card...’ button in the Demo. You know the next step is swiping card.
 
 You got three ways to let the device identify the card below :
 
@@ -27,9 +27,9 @@ Swiping from right to left:
 
 Now , I will explain  the code of the way to identify the card number base on the TestPay Demo:
 
-1.Copying those two AIDL files into the specified package com.sunmi.pay.hardware of your project.
+1. Copying those two AIDL files into the specified package com.sunmi.pay.hardware of your project.
 
-2.Connecting the Service when the Demo is started.
+2. Connecting the Service when the Demo is started.
 ```
 
 Intent intent = new Intent("sunmi.intent.action.PAY_HARDWARE");
@@ -57,7 +57,7 @@ private ServiceConnection mConnection = new ServiceConnection() {
 
 ```
 
-3.Calling the ISMHardwareService .onCheckCard(int period, ISMCheckCardCallback callback) on the button's OnClickListener
+3. Calling the ISMHardwareService .onCheckCard(int period, ISMCheckCardCallback callback) on the button's OnClickListener
 
 ```
  mBtnCheckCard.setOnClickListener(new View.OnClickListener() {
