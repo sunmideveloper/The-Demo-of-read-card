@@ -13,9 +13,15 @@ You got three ways to let the device identify the card below :
 
 NFC:
 
+![Alt SUNMI](https://github.com/sunmideveloper/The-Demo-of-read-card/blob/master/img/1.png) 
+
 IC:
 
+![Alt SUNMI](https://github.com/sunmideveloper/The-Demo-of-read-card/blob/master/img/2.png) 
+
 Swiping from right to left:
+
+![Alt SUNMI](https://github.com/sunmideveloper/The-Demo-of-read-card/blob/master/img/3.jpeg) 
 
 <font color=#0099ff size=7 face="黑体">The TextView on the Demo will show the Bank Card number if the card is recognized by the device.</font>
 
