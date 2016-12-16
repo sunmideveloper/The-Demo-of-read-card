@@ -3,7 +3,7 @@ Sunmi P1 (some times we call it V2) can do lots of financial payment work, here 
 
 Please refer to the following steps:
 
-1. Installing the SunmiPayHardwareService.apk into your P1 device, click the icon on the Launcher to start it. You can find the apk in the resources file.
+1. Installing the SunmiPayHardwareService.apk into your P1 device, click the icon on the Launcher to start it. This is the basic service of the payment,You can find the apk in the resources file.
 
 2. Downloading the TestPay_AndroidStudio.zip and improting the TestPay_AndroidStudio project into your AndroidStudio ,of course you can download the TesetPay_eclipse if you are an eclipse advocate.
 
@@ -12,6 +12,7 @@ Please refer to the following steps:
 You got three ways to let the device identify the card below :
 
 NFC:
+
 ![Alt SUNMI](https://github.com/sunmideveloper/The-Demo-of-read-card/blob/master/img/2.png) 
 
 
