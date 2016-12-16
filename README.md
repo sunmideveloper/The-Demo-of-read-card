@@ -12,12 +12,13 @@ Please refer to the following steps:
 You got three ways to let the device identify the card below :
 
 NFC:
+![Alt SUNMI](https://github.com/sunmideveloper/The-Demo-of-read-card/blob/master/img/2.png) 
 
-![Alt SUNMI](https://github.com/sunmideveloper/The-Demo-of-read-card/blob/master/img/1.png) 
 
 IC:
 
-![Alt SUNMI](https://github.com/sunmideveloper/The-Demo-of-read-card/blob/master/img/2.png) 
+![Alt SUNMI](https://github.com/sunmideveloper/The-Demo-of-read-card/blob/master/img/1.png) 
+
 
 Swiping from right to left:
 
